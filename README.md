@@ -1,5 +1,5 @@
 # instagram_scraping
-To use this file you should :
+To use this Script you should :
 
 
 1-install BeautifulSoup ,urllib,selenium,time,sys,os
