@@ -4,7 +4,7 @@ from  selenium import webdriver
 import time
 import sys
 import os
-type_browser=input("what is your browser : (1) chrome (2) firefox\n")
+type_browser=input("what is your browser (1) chrome (2) firefox\n:")
 if type_browser == "1" or type_browser == "chrome":
  try:
   web=webdriver.Chrome()
